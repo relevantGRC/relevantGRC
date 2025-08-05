@@ -3,26 +3,23 @@
 <a href="https://www.youtube.com/channel/UClRL3C3I8eWrlbISV1n1Bgg"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 
-[Brief Introduction - Remove this afterwards]
+Highly motivated and dynamic Cybersecurity Professional with over 10 years of experience throughout multiple roles within the information security field driving cross-functional collaboration with team members of varying backgrounds, experience levels, and core responsibilities to implement best practices, harden internal systems, and improve overall security posture within an organization.
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Education
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- MSc., Mathematics | The University of Texas at El Paso (Dec 2020)
+- Graduate Certificate, Big Data Analytics | The University of Texas at El Paso (Dec 2020)
+- BSc., Mathematics | The University of Cape Coast
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Work Experience 
+**Snr GRC Engineer @ Clario (_August 2023 - Present_)**
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+**Auditor @ Insight Assurance (_August 2023 - Present_)**
+- Perform the day-to-day activities of IT audit engagements (SOC 1, SOC 2, ISO27001, ISO 27701, HIPAA, PCI DSS), and readiness assessments under the direction of a member of the management team.
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -51,13 +48,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISA-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001-DC143C?&style=for-the-badge&logo=PECB&logoColor=white" />
 </div>
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+
 
