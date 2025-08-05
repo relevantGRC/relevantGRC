@@ -21,27 +21,16 @@ I am a recent graduate with a profound interest in technology and a dedication t
 **Auditor @ Insight Assurance (_August 2023 - Present_)**
 - Perform the day-to-day activities of IT audit engagements (SOC 1, SOC 2, ISO27001, ISO 27701, HIPAA, PCI DSS), and readiness assessments under the direction of a member of the management team.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Technical Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AuditBoard-005EB8?&style=for-the-badge&logo=AuditBoard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KnowBe4-F36F21?&style=for-the-badge&logo=KnowBe4&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-00C6A2?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
 ## Certifications
@@ -55,6 +44,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 </div>
 
 ## Projects
-- Detection Lab
+- <a href = "https://github.com/relevantGRC/grc-suite">Grc Suite</a>
 
 
