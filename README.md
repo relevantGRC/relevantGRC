@@ -4,7 +4,8 @@
 
 Highly motivated and dynamic Cybersecurity Professional with over 10 years of experience in Governance, Risk, and Security Compliance Engineering throughout multiple roles within the defensive and information security field driving cross-functional collaboration with team members of varying backgrounds, experience levels, and core responsibilities to implement best practices, harden internal systems, and improve overall security posture within an organization. Now building the technical foundation to engineer compliance at scale: automating control mapping, evidence collection, and security posture management in cloud environments.
 
-**Frameworks & Standards:** `ISO 27001` · `ISO 42001` · `NIST CSF` · `NIST 800-53` · `CIS Controls v8` · `ISO 27701` · `SOC 2` 
+## Frameworks & Standards:
+`ISO 27001` · `ISO 42001` · `NIST CSF` · `NIST 800-53` · `CIS Controls v8` · `ISO 27701` · `SOC 2` 
 
 ## Education
 
@@ -16,18 +17,6 @@ Highly motivated and dynamic Cybersecurity Professional with over 10 years of ex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkonu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/relevantGRC)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UClRL3C3I8eWrlbISV1n1Bgg)
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISA-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001-DC143C?&style=for-the-badge&logo=PECB&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISO%2FIEC%2042001-DC143C?&style=for-the-badge&logo=PECB&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_Azure Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
 
 ## Projects
 
