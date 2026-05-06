@@ -54,7 +54,6 @@ Building an environment focused on GRC engineering skill development. The lab is
 - Studying GRC Engineering patterns: control mapping, evidence automation, policy-as-code
 - Terraform for multi-environment IaC deployments
 - Open Policy Agent (OPA) and Rego for policy-as-code enforcement
-- CJIS Security Policy v6.0 deltas from FedRAMP High (FIPS 140-2/3, agency-managed keys, CJI-specific access controls)
 
 ## Writing
 
