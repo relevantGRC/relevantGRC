@@ -2,7 +2,9 @@
 
 ## About Me
 
-Highly motivated and dynamic Cybersecurity Professional with over 10 years of experience in Governance, Risk, and Security Compliance Engineering throughout multiple roles within the defensive and information security field driving cross-functional collaboration with team members of varying backgrounds, experience levels, and core responsibilities to implement best practices, harden internal systems, and improve overall security posture within an organization. Now building the technical foundation to engineer compliance at scale: automating control mapping, evidence collection, and security posture management in cloud environments.
+Highly motivated and dynamic Cybersecurity Professional with over 10 years of experience in Governance, Risk, and Security Compliance Engineering throughout multiple roles within the defensive and information security field, driving cross-functional collaboration with team members of varying backgrounds. 
+
+My background spans Governance and Compliance (ISO 27001, 27701, 42001, SOC 2, etc,.) and automating evidence collection, continuous monitoring, and compliance-as-code workflows, replacing manual processes with repeatable, scriptable, auditor-ready outputs.
 
 ## Frameworks & Standards:
 `ISO 27001` · `ISO 42001` · `NIST CSF` · `NIST 800-53` · `CIS Controls v8` · `ISO 27701` · `SOC 2` 
@@ -31,21 +33,17 @@ Building an environment focused on GRC engineering skill development. The lab is
 - **[Compliance Report](https://github.com/relevantGRC/grc-suite/tree/main/AWS/compliance_report):** Aggregates compliance data into structured reports with pass/fail summary.
 
 
-### Security & Policy-as-Code
-
-- **[Policy Checker](https://github.com/relevantGRC):** Scans AWS IAM policies for overly permissive configurations and, GitHub Actions CI/CD.
-
 ## Technical Stack
 
 | Category | Technologies |
 | -- | -- |
-| **Cloud** | AWS (CloudTrail, Config, IAM, KMS, Lambda, S3, Security Hub), Azure |
+| **Cloud** | AWS (CloudTrail, Config, IAM, KMS, Lambda, S3, Security Hub), Azure, GCP |
 | **Languages** | Python, Bash, AWS CLI, Z shell (zsh) |
 | **Infrastructure as Code** | AWS CloudFormation, Terraform |
 | **Policy-as-Code** | OPA/Rego, Checkov, Conftest |
 | **CI/CD** | GitHub Actions, GitLab |
 | **IAM & IGA** | Access Reviews, Privileged Access Monitoring, RBAC, Least Privilege, SSO |
-| **Compliance** | ISO (27001, 27701, 27017, 42001), SOC 2, CJIS Security Policy v6.0, FedRAMP High, NIST 800-53 Rev 5, NIST CSF 2.0 |
+| **Compliance** | ISO (27001, 27701, 27017/18, 42001), SOC 2, CJIS Security Policy v6.0, FedRAMP High, NIST 800-53 Rev 5, NIST CSF 2.0 |
 
 ## Currently Learning
 
