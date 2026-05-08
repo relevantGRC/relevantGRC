@@ -28,10 +28,7 @@ Building an environment focused on GRC engineering skill development. The lab is
 
 - **[IAM Audit](https://github.com/relevantGRC):** Audits AWS IAM users for MFA compliance and credential hygiene
 - **[S3 Audit](https://github.com/relevantGRC):** Audits S3 buckets for encryption, public access, and versioning
-- **[Security Group Audit](https://github.com/relevantGRC):** Audits security groups for overly permissive inbound rules
-- **[CloudTrail Audit](https://github.com/relevantGRC):** Audits CloudTrail configuration for logging compliance
-- **[Evidence Logger](https://github.com/relevantGRC):** Generates timestamped, auditor-ready evidence files from compliance checks
-- **[Compliance Report](https://github.com/relevantGRC):** Aggregates compliance data into structured reports with pass/fail summaries
+
 
 ### Security & Policy-as-Code
 
