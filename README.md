@@ -41,7 +41,7 @@ Building an environment focused on GRC engineering skill development. The lab is
 | **Policy-as-Code** | OPA/Rego, Checkov, Conftest |
 | **CI/CD** | GitHub Actions, GitLab |
 | **IAM & IGA** | Access Reviews, Privileged Access Monitoring, RBAC, Least Privilege, SSO |
-| **Compliance** | ISO (27001, 27701, 27017/18, 42001), SOC 2, CJIS Security Policy v6.0, FedRAMP High, NIST 800-53 Rev 5, NIST CSF 2.0 |
+| **Compliance** | ISO (27001, 27701, 27017/18, 42001), SOC 2, CJIS Security Policy, CJIS, FedRAMP, NIST 800-53, NIST CSF|
 
 ## Currently Learning
 
