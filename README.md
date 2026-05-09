@@ -37,7 +37,7 @@ Building an environment focused on GRC engineering skill development. The lab is
 | -- | -- |
 | **Cloud** | AWS (CloudTrail, Config, IAM, KMS, Lambda, S3, Security Hub), Azure, GCP |
 | **Languages** | Python, Bash, AWS CLI, Z shell (zsh) |
-| **Infrastructure as Code** | AWS CloudFormation, Terraform |
+| **Infrastructure as Code** | AWS CloudFormation, Terraform, checkov |
 | **Policy-as-Code** | OPA/Rego, Checkov, Conftest |
 | **CI/CD** | GitHub Actions, GitLab |
 | **IAM & IGA** | Access Reviews, Privileged Access Monitoring, RBAC, Least Privilege, SSO |
