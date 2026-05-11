@@ -46,7 +46,7 @@ Building an environment focused on GRC engineering skill development. The lab is
 ## Currently Learning
 
 - Studying GRC Engineering patterns: control mapping, evidence automation, policy-as-code
-- Terraform for multi-environment IaC deployments
+- Terraform for IaC deployments
 - Open Policy Agent (OPA) and Rego for policy-as-code enforcement
 
 ## Writing
