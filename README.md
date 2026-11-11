@@ -2,15 +2,16 @@
 
 ## About Me
 
-Governance, risk, and security compliance practitioner translation controls into engineering. My background spans Governance and Compliance (ISO 27001, 27701, 42001, SOC 2, etc,.) and automating evidence collection, continuous monitoring, and compliance-as-code workflows, replacing manual processes with repeatable, scriptable, auditor-ready outputs.
+Governance, risk, AI, and security compliance practitioner translation controls into engineering. My background spans Governance and Compliance (ISO 27001, 27701, 42001, SOC 2, AIUC-1, etc,.) and automating evidence collection, continuous monitoring, and compliance-as-code workflows, replacing manual processes with repeatable, scriptable, auditor-ready outputs.
 
 ## Frameworks & Standards:
-`ISO 27001` · `ISO 42001` · `NIST CSF` · `NIST 800-53` · `CIS Controls v8` · `ISO 27701` · `SOC 2` 
+`ISO 27001` · `ISO 42001` · `NIST CSF` · `NIST 800-53` · `CIS Controls v8` · `ISO 27701` · `SOC 2` · `AIUC-1` 
 
 ## Education
 
 - University of Texas at El Paso M.Sc Mathematic (UTEP, 2020).
 - University of Texas at El Paso Graduate Certificate, Big Data Analytics (UTEP, 2020).
+- University of Cape Coast, Ghana, B.Sc Mathematic (UCC, 2016).
 
 ## Where to Find Me
 
